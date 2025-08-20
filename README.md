@@ -8,6 +8,10 @@ Este repositorio contiene varias páginas HTML estáticas. Puedes verlas publica
 
 - [Url_Headlines_Analysis_Hola_Es](https://rperezhola.github.io/Reports/Url_Headlines_Analysis_Hola_Es.html)
 
-- [Helpful_Content_HOLA](https://rperezhola.github.io/Reports/Helpful_Content_HOLA.html)
+- [Helpful_Content_HOLA 18 Ago](https://rperezhola.github.io/Reports/Helpful_Content_HOLA_18ago.html)
 
-- [Helpful_Content_HELLO](https://rperezhola.github.io/Reports/Helpful_Content_HELLO.html)
+- [Helpful_Content_HELLO 18 Ago](https://rperezhola.github.io/Reports/Helpful_Content_HELLO18ago.html)
+
+- [Helpful_Content_HOLA 2Jul](https://rperezhola.github.io/Reports/Helpful_Content_HOLA_2jul.html)
+
+- [Helpful_Content_HELLO 2Jul](https://rperezhola.github.io/Reports/Helpful_Content_HELLO_2jul.html)
