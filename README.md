@@ -10,7 +10,7 @@ Este repositorio contiene varias páginas HTML estáticas. Puedes verlas publica
 
 - [Helpful_Content_HOLA 18 Ago](https://rperezhola.github.io/Reports/Helpful_Content_HOLA_18ago.html)
 
-- [Helpful_Content_HELLO 18 Ago](https://rperezhola.github.io/Reports/Helpful_Content_HELLO18ago.html)
+- [Helpful_Content_HELLO 18 Ago](https://rperezhola.github.io/Reports/Helpful_Content_HELLO_18ago.html)
 
 - [Helpful_Content_HOLA 2Jul](https://rperezhola.github.io/Reports/Helpful_Content_HOLA_2jul.html)
 
